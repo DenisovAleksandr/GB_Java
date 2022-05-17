@@ -1,4 +1,4 @@
-package ru.gb.Denisov;
+package ru.gb.Denisov.HomeWork1;
 
 public class HomeWorkApp {
     public static void main(String[] args) {
