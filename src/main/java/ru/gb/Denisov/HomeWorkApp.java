@@ -1,5 +1,4 @@
 package ru.gb.Denisov;
-;
 
 public class HomeWorkApp {
     public static void main(String[] args) {
