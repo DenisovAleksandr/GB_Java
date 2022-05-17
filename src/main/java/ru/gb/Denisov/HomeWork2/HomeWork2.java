@@ -9,7 +9,7 @@ public class HomeWork2 {
         System.out.println(checkPositiveBool(-5));
         printString("Hello World",3);
         System.out.print(year+"-й год ");
-        if (visokos(year))
+        if (checkLeapYear(year))
             System.out.println("високосный!");
         else
             System.out.println("не високосный!");
@@ -32,7 +32,7 @@ public class HomeWork2 {
             System.out.println(s);
         }
     }
-    private static boolean visokos (int year) {
+    private static boolean checkLeapYear (int year) {
         return !(year % 4 != 0 || (year % 100 == 0 && year % 400 != 0));
     }
 }
