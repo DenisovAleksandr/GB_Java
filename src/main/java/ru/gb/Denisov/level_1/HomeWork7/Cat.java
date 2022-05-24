@@ -1,4 +1,4 @@
-package ru.gb.Denisov.HomeWork7;
+package ru.gb.Denisov.level_1.HomeWork7;
 
 public class Cat {
     private String name;

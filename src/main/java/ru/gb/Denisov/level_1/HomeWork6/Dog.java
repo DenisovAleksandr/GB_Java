@@ -1,4 +1,4 @@
-package ru.gb.Denisov.HomeWork6;
+package ru.gb.Denisov.level_1.HomeWork6;
 
 public class Dog extends Animal {
     final int maxSwim = 10;

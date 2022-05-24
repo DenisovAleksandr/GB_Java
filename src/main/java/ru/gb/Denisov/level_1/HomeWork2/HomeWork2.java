@@ -1,4 +1,4 @@
-package ru.gb.Denisov.HomeWork2;
+package ru.gb.Denisov.level_1.HomeWork2;
 
 public class HomeWork2 {
 

@@ -1,4 +1,4 @@
-package ru.gb.Denisov.HomeWork5;
+package ru.gb.Denisov.level_1.HomeWork5;
 
 public class Person {
     private String fullName;

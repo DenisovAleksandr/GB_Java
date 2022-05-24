@@ -1,4 +1,4 @@
-package ru.gb.Denisov.HomeWork4;
+package ru.gb.Denisov.level_1.HomeWork4;
 
 import java.util.Random;
 import java.util.Scanner;

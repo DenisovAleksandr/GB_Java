@@ -1,15 +1,16 @@
-package ru.gb.Denisov.HomeWork6;
+package ru.gb.Denisov.level_1.HomeWork6;
 
 public class Cat extends Animal {
     final int maxRun = 200;
     static int ID = 0;
 
-    public Cat(String name, String color, int birthYear) {
+    public Cat(String name, String color, int birthYear, int ID) {
         super(name, color, birthYear);
         super.maxRun = this.maxRun;
         this.id = ID + 1;
         super.id = this.id;
-        ID++;
+
+        this.ID=ID;
     }
 
     @Override

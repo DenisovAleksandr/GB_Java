@@ -1,4 +1,4 @@
-package ru.gb.Denisov.HomeWork8;
+package ru.gb.Denisov.level_1.HomeWork8;
 
 import java.util.Random;
 

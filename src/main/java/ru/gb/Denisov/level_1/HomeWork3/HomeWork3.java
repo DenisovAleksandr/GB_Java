@@ -1,6 +1,5 @@
-package ru.gb.Denisov.HomeWork3;
+package ru.gb.Denisov.level_1.HomeWork3;
 
-import java.sql.Array;
 import java.util.Arrays;
 
 public class HomeWork3 {

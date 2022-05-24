@@ -1,9 +1,9 @@
-package ru.gb.Denisov.HomeWork6;
+package ru.gb.Denisov.level_1.HomeWork6;
 
 public class HomeWork6 {
     public static void main(String[] args) {
-        Cat c1 = new Cat("Barsik", "White", 1995);
-        Cat c2 = new Cat("Pushok", "White", 1995);
+        Cat c1 = new Cat("Barsik", "White", 1995,1);
+        Cat c2 = new Cat("Pushok", "White", 1995,2);
         Dog d1 = new Dog("Polkan", "White", 1995);
         Dog d2 =new Dog("Zefirka","Brown", 1898);
         Animal animal[]={c1,c2,d1,d2};
@@ -20,6 +20,8 @@ public class HomeWork6 {
         System.out.println(c1.name + " have id = "+c1.getID());
         System.out.println(c2.name + " have id = "+c2.getID());
         System.out.println("Total animals "+animal.length);
+        System.out.println(c1.ID);
+        System.out.println(c2.ID);
 
 
     }

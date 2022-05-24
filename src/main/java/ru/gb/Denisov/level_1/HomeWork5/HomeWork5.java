@@ -1,4 +1,4 @@
-package ru.gb.Denisov.HomeWork5;
+package ru.gb.Denisov.level_1.HomeWork5;
 
 public class HomeWork5 {
     public static void main(String[] args) {

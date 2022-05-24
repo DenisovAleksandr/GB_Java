@@ -1,4 +1,4 @@
-package ru.gb.Denisov.HomeWork6;
+package ru.gb.Denisov.level_1.HomeWork6;
 
 public abstract class Animal {
     protected String name;
